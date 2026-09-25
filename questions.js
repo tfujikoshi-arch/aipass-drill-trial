@@ -26,7 +26,7 @@
 var EDITION = "trial";     /* questions_full.js が読み込まれると "full" に変わります */
 
 /* お試し版のホーム画面から案内する、note記事のURL。空なら文章だけ表示します */
-var TRIAL_NOTE_URL = "";
+var TRIAL_NOTE_URL = "https://note.com/light_mink3655/n/n0078a421533d";
 
 const CHAPTERS = {
   1: "AI（人工知能）",
